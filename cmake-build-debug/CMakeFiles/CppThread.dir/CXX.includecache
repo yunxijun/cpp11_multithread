@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/Desktop/ClionCpp/CppThread/main.cpp
+iostream
+-
+thread
+-
+list
+-
+vector
+-
+iostream
+-
+thread
+-
+list
+-
+mutex
+-
+condition_variable
+-
+future
+-
+atomic
+-
+windows.h
+-
+

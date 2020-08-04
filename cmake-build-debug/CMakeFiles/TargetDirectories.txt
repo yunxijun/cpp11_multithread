@@ -1,0 +1,3 @@
+C:/Users/asus/Desktop/ClionCpp/CppThread/cmake-build-debug/CMakeFiles/CppThread.dir
+C:/Users/asus/Desktop/ClionCpp/CppThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/ClionCpp/CppThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir

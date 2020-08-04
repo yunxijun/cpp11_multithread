@@ -1,0 +1,4 @@
+ToolSet: w64 3.4 (local)@C:\Software\Qt5.6.1\Tools\mingw492_32
+Options: 
+
+Options:
